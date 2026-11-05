@@ -1,0 +1,51 @@
+playerID,player_name,age,position,conference,team
+1,Marcus Webb,22,PG,East,Boston Celtics
+2,DeShawn Holloway,25,PG,East,Brooklyn Nets
+3,Jamal Rivera,26,PG,East,Golden State Warriors
+4,Tyrese Manning,26,PG,East,Dallas Mavericks
+5,Devon Cross,22,PG,East,Miami Heat
+6,Kyle Okafor,21,PG,West,LA Clippers
+7,Brent Lawson,25,PG,West,Philadelphia 76ers
+8,Malik Jefferson,27,PG,West,Phoenix Suns
+9,Andre Simmons,27,PG,West,Milwaukee Bucks
+10,Calvin Pierce,22,PG,West,Denver Nuggets
+11,Terrence Cole,28,SG,East,Boston Celtics
+12,Rashad Freeman,27,SG,East,Golden State Warriors
+13,Jordan Hayes,35,SG,East,Toronto Raptors
+14,Damon Price,28,SG,East,Houston Rockets
+15,Emmanuel Diallo,23,SG,East,Chicago Bulls
+16,Corey Watts,28,SG,West,Memphis Grizzlies
+17,Nathan Brooks,29,SG,West,Cleveland Cavaliers
+18,Isaiah Park,26,SG,West,Utah Jazz
+19,Quincy Morgan,21,SG,West,New York Knicks
+20,Elijah Stone,25,SG,West,Sacramento Kings
+21,LaMar Washington,29,SF,East,Miami Heat
+22,Darius Bell,29,SF,East,Phoenix Suns
+23,Trevon Garrett,28,SF,East,Atlanta Hawks
+24,Shawn Mercer,31,SF,East,LA Clippers
+25,Kelvin Hughes,24,SF,East,Toronto Raptors
+26,Marcus Santos,31,SF,West,Portland Trail Blazers
+27,Derek Owens,25,SF,West,Indiana Pacers
+28,Aaron Fleming,33,SF,West,Minnesota Timberwolves
+29,Victor Nwosu,26,SF,West,Milwaukee Bucks
+30,Chris Dunlap,29,SF,West,Oklahoma City Thunder
+31,Jabari Knox,27,PF,East,Philadelphia 76ers
+32,Wendell Carter,29,PF,East,Golden State Warriors
+33,Rodney Taylor,27,PF,East,Boston Celtics
+34,Damian Pope,30,PF,East,Denver Nuggets
+35,Brandon Ellis,25,PF,East,Cleveland Cavaliers
+36,Zion Harmon,25,PF,West,Dallas Mavericks
+37,Patrick Osei,23,PF,West,Brooklyn Nets
+38,Christian Wade,27,PF,West,Utah Jazz
+39,Marquise Edwards,32,PF,West,Chicago Bulls
+40,Dwayne Rivers,27,PF,West,Sacramento Kings
+41,Ike Anyanwu,26,C,East,New York Knicks
+42,Tyrell Monroe,22,C,East,LA Lakers
+43,Big Mo Williams,26,C,East,Toronto Raptors
+44,Samuel Kofi,23,C,East,Houston Rockets
+45,Gerald Forbes,28,C,East,Milwaukee Bucks
+46,Antonio Vega,30,C,West,Phoenix Suns
+47,Hakeem Bah,28,C,West,Atlanta Hawks
+48,Dominic Russo,30,C,West,Memphis Grizzlies
+49,Jerome Booker,22,C,West,Indiana Pacers
+50,Evan Blackwood,23,C,West,Oklahoma City Thunder

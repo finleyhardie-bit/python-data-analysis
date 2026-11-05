@@ -1,0 +1,13 @@
+Customer,Type,Flavor,Age,Sales,Store
+1,Adult,Chocolate,45,4.5,Denver
+15,Adult,Vanilla,28,3.75,Denver
+17,Child,Vanilla,5,2.5,Denver
+34,Adult,Vanilla,28,3.25,Denver
+2,Child,Vanilla,5,2.5,Greeley
+8,Child,Vanilla,4,3,Greeley
+33,Adult,Chocolate,60,4,Greeley
+11,Child,Vanilla,6,3,Parker
+18,Teenager,Chocolate,14,3.5,Parker
+26,Teenager,Vanilla,17,4,Parker
+32,Teenager,Vanilla,15,3.2,Parker
+37,Teenager,Chocolate,14,4.2,Parker
